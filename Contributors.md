@@ -565,6 +565,7 @@ Tomoya Okuno, motonuko<br/>
 2411029 - Takumi Iwakuni <br/>
 2411278 - Yusei Miyoshi <br/>
 2411271 - Nanako Miyai <br/>
+- Kuramoto Mana
 2411146 - Tatsuya Shirai,kuroishirai <br/>
 2411110 - Riku Koizumi </br>
 2411271 - Nanako Miyai <br/>
