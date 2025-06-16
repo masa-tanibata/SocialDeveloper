@@ -20,6 +20,7 @@ studentID - username <br/>
 2411317 - CHENG YUANHAU<br/>
 2511176 - Masatoshi Tani - MAAAARCY <br/>
 2411043 - Motoharu Okuma<br/>
+2511109 - Kojima Hikaru, kozihika<br/>
 2411019 - Hayato Ide<br/>
 2211421 - Wang Zihang<br/>
 25122098 - Andres Mohali <br/>
@@ -84,6 +85,7 @@ studentID - username <br/>
 2011110 -Tetsuya Kodama<br/>
 2011115 - YuhiSaiki<br/>
 2211147 - Seiji Shimizu<br/>
+2511087 - Atsuhiro Kitagawa <br/>
 2411117 - Jun Kohashiguchi<br/>
 2211051 - Taisei Urakami <br/>
 2011088 - Toshinori Kitamura <br/>
@@ -588,6 +590,7 @@ Tomoya Okuno, motonuko<br/>
 2411255 - Kosei Horikawa <br/>
 2311416 - Zhongxue Liu <br/>
 2411076 - riku kato
+2511110 - Ryunosuke Koshima <br/>
 2411424 - Riza Setiawan Soetedjo - rizstwn <br/>
 2411238 - Momoka Hirose <br/>
 2311211 - r-nishioka <br/>
@@ -595,11 +598,16 @@ Tomoya Okuno, motonuko<br/>
 2511145 - Ayane Shirakawa </br>
 2311406 - Rownak - 3207-Rhims </br>
 2311428 - Syafrudin Rais Akhdan(neozoxix) </br>
+2411093 - Koki Kitajima </br>
+2511347 - Keiyo-Z </br>
+2511096 - Hidaka Kuno </br>
+2511345 - YIN Feiyang </br>
+2511227 - Yoshito Hagihara</br>
+2511055 - Hikaru Okamoto </br>
 2511235 - Tamaki Baba
 2511267 - Tappei Maekawa<br/>
 2511298 - Takahiro Monno </br>
 2411415 - Settewong Tasha </br>
-2411093 - Koki Kitajima </br>
 2511278 - Takashi Matsumoto - Appletea0673 <br/>
 2511363 – LU TONG <br/>
 2511092 - Ryosei Kuge (githubid is nobRe03) <br/>
@@ -608,3 +616,6 @@ Tomoya Okuno, motonuko<br/>
 2511014 - Takuto-Ando <br/>
 2511055 - Hikaru Okamoto </br>
 2411407 - Elyanah Aco - acocodes </br>
+2511300 - yashikota <br/>
+2511055 - Hikaru Okamoto </br>
+2511347 - Xinyu Zhang </br>
