@@ -569,7 +569,6 @@ Tomoya Okuno, motonuko<br/>
 2411110 - Riku Koizumi </br>
 2411271 - Nanako Miyai <br/>
 2311415 - Sila Lertbanjongngam <br/>
-2511110 - Ryunosuke Koshima <br/>
 2411110 - Riku Koizumi </br>
 2411182 - Hibiki Tsuji </br>
 2411271 - Nanako Miyai <br/>
@@ -579,7 +578,7 @@ Tomoya Okuno, motonuko<br/>
 2411255 - Kosei Horikawa <br/>
 2311416 - Zhongxue Liu <br/>
 2411076 - riku kato
-2511110 - Ryunosuke Koshima
+2511110 - Ryunosuke Koshima <br/>
 2411238 - Momoka Hirose <br/>
 2311211 - r-nishioka <br/>
 2411110 - Riku Koizumi </br>
