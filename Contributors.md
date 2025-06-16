@@ -597,6 +597,7 @@ Tomoya Okuno, motonuko<br/>
 2311406 - Rownak - 3207-Rhims </br>
 2311428 - Syafrudin Rais Akhdan(neozoxix) </br>
 2411093 - Koki Kitajima </br>
+2511227 - Yoshito Hagihara</br>
 2511055 - Hikaru Okamoto </br>
 2511235 - Tamaki Baba
 2511267 - Tappei Maekawa<br/>
