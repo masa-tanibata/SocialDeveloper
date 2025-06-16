@@ -449,6 +449,7 @@ Minoru Ishihara - MinoruIshihara
 2311196 - Takashi Nakano <br/>
 2311117 - Kuwahara Takumi <br/>
 2311287 - Yamasaki Kokoro <br/>
+
 2311069 - Tomoya Ohashi <br/>
 2311330 - Habiba Hesham Mohamed AbdelAziz <br/>
 2311338 - LI KAIFAN <br/>
@@ -622,4 +623,5 @@ Tomoya Okuno, motonuko<br/>
 2411407 - Elyanah Aco - acocodes </br>
 2511300 - yashikota <br/>
 2511055 - Hikaru Okamoto </br>
+2511323 - Kan Watanabe (id:kan0803) </br>
 2511347 - Xinyu Zhang </br>
