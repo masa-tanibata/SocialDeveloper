@@ -597,3 +597,4 @@ Tomoya Okuno, motonuko<br/>
 2511014 - Takuto-Ando <br/>
 2511055 - Hikaru Okamoto </br>
 2411093 - Koki Kitajima </br>
+2511300 - yashikota <br/>
