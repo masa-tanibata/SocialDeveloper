@@ -96,6 +96,7 @@ studentID - username <br/>
 1911413 - Zhiwei Gao<br/>
 2011297 - Kotaro Yoshimoto<br/>
 2011268 - Keita Morisaki<br/>
+2511259 - yfLCJCXR
 2311106 - Erika Kimura<br/>
 2011170 - Seiya Tanaka<br/>
 2011226 - Shintaro Harada <br/>
@@ -598,6 +599,7 @@ Tomoya Okuno, motonuko<br/>
 2511145 - Ayane Shirakawa </br>
 2311406 - Rownak - 3207-Rhims </br>
 2311428 - Syafrudin Rais Akhdan(neozoxix) </br>
+2511259 - yfLCJCXR
 2411093 - Koki Kitajima </br>
 2511347 - Keiyo-Z </br>
 2511096 - Hidaka Kuno </br>
