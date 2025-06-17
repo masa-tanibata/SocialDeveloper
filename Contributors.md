@@ -17,6 +17,7 @@ studentID - username <br/>
 2511314 - Rikuta Yoshio <br/>
 2411341 - zhou wangzixi - 37integer <br/>
 2311062 - Toi Ooka<br/>
+2511256 - Uyu Fujii <br/>
 2411325 - Yuya Ide <br/>
 2311245 - Koki Hori<br/>
 2411317 - CHENG YUANHAU<br/>
