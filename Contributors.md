@@ -1,6 +1,7 @@
 studentID - username <br/>
 2311065 - Otsubo Hiromu<br/>
 2511055 - Hikaru OKAMOTO <br/>
+2511192 - Yuta Tsutsumi <br/>
 2411262 - Kanta Matsubara<br/>
 2511301 - Natsuho Yasugi<br/>
 2411088 - Kikuta Masaru <br/>
@@ -625,6 +626,8 @@ Tomoya Okuno, motonuko<br/>
 2411407 - Elyanah Aco - acocodes </br>
 2511300 - yashikota <br/>
 2511055 - Hikaru Okamoto </br>
+2511347 - Xinyu Zhang </br>
+2511192 - Yuta Tsutsumi <br/>
 2511323 - Kan Watanabe (id:kan0803) </br>
 2511347 - Xinyu Zhang </br>
 2511334 - Ayobami Joseph - JosephAyo </br>
