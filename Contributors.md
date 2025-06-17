@@ -614,6 +614,8 @@ Tomoya Okuno, motonuko<br/>
 2511227 - Yoshito Hagihara</br>
 2511118 - Akihiro Saeki</br>
 2511055 - Hikaru Okamoto </br>
+2511235 - Tamaki Baba
+2511336 - Zhidong Li </br>
 2511235 - Tamaki Baba </br>
 2511267 - Tappei Maekawa<br/>
 2511298 - Takahiro Monno </br>
