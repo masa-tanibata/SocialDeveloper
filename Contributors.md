@@ -627,6 +627,7 @@ Tomoya Okuno, motonuko<br/>
 2411407 - Elyanah Aco - acocodes </br>
 2511300 - yashikota <br/>
 2511055 - Hikaru Okamoto </br>
+2511295 - Hiroki Morichika - o955 </br>
 2511347 - Xinyu Zhang </br>
 2511192 - Yuta Tsutsumi <br/>
 2511323 - Kan Watanabe (id:kan0803) </br>
