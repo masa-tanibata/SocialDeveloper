@@ -631,5 +631,5 @@ Tomoya Okuno, motonuko<br/>
 2511323 - Kan Watanabe (id:kan0803) </br>
 2511347 - Xinyu Zhang </br>
 2511334 - Ayobami Joseph - JosephAyo </br>
-2511026 - Naoaki Ito(id:Naoaki-I) </br>
+2511026 - Naoaki Ito (id:Naoaki-I) </br>
 
