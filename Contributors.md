@@ -15,6 +15,7 @@ studentID - username <br/>
 2411124-Chihiro Sakai<br/>
 2511270 - Moeka Makabe<br/>
 2411314 - Miku Watanabe , mmikuu
+2511324 - Daisuke Watanabe <br/>
 2511074 - Rintaro Kanaji <br/>
 2511314 - Rikuta Yoshio <br/>
 2411341 - zhou wangzixi - 37integer <br/>
