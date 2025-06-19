@@ -1,6 +1,7 @@
 studentID - username <br/>
 2511090 - Manato Kinoshita<br/>
 2311065 - Otsubo Hiromu<br/>
+2511069 - Haruhiko Kataoka <br/>
 2511055 - Hikaru OKAMOTO <br/>
 2511192 - Yuta Tsutsumi <br/>
 2411262 - Kanta Matsubara<br/>
@@ -637,8 +638,13 @@ Tomoya Okuno, motonuko<br/>
 2511192 - Yuta Tsutsumi <br/>
 2511323 - Kan Watanabe (id:kan0803) </br>
 2511347 - Xinyu Zhang </br>
+2511026 - Naoaki Ito (id:Naoaki-I) </br>
 2511360 - Fakih Hamid </br>
 2511362 - Siyuan Liu (ryushien-z) </br>
 2411422 - himanshu-raturi </br>
 2511334 - Ayobami Joseph - JosephAyo </br>
 2511148 - YutoShimmyo </br>
+2511036 - Yuji Ueda - yujiponzu </br>
+2411406 - napoleon-na </br>
+2511205 - Daichi Nakagawa - Daichi343 </br>
+2511141 - Zhijian Zhang (id: JasonZhijian) </br>
