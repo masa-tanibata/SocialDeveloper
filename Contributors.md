@@ -15,6 +15,7 @@ studentID - username <br/>
 2411124-Chihiro Sakai<br/>
 2511270 - Moeka Makabe<br/>
 2411314 - Miku Watanabe , mmikuu
+2511324 - Daisuke Watanabe <br/>
 2511074 - Rintaro Kanaji <br/>
 2511314 - Rikuta Yoshio <br/>
 2411341 - zhou wangzixi - 37integer <br/>
@@ -628,7 +629,7 @@ Tomoya Okuno, motonuko<br/>
 2511329 - Hongwei Hu </br>
 2511176 - Masatoshi Tani - MAAAARCY <br/>
 2511014 - Takuto-Ando <br/>
-2511224 - Shimpei Nishiyama - shimpei-art <bar/>
+2511224 - Shimpei Nishiyama - shimpei-art </br>
 2511260 - Daisuke Fujimoto - di-bi777 </br>
 2511055 - Hikaru Okamoto </br>
 2411407 - Elyanah Aco - acocodes </br>
