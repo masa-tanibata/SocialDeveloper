@@ -1,4 +1,8 @@
-studentID - username <br/>
+studentID - username <br/> 
+2511046 - Sunao Endo - suudon4120<br/>
+2511328 - CUI ENCHENG - Eureka2718<br/>
+2511248 - Yamato Himi - yamatohimi<br/>
+2511280 - Hinata Mamoru - mamoru4949<br/>
 2511238 - Shogo Hayashi - ShogoHayashi8850<br/>
 2511090 - Manato Kinoshita<br/>
 2311065 - Otsubo Hiromu<br/>
@@ -14,7 +18,8 @@ studentID - username <br/>
 2411126 - Shota Sakoda<br/>
 2411124-Chihiro Sakai<br/>
 2511270 - Moeka Makabe<br/>
-2411314 - Miku Watanabe , mmikuu
+2411314 - Miku Watanabe , mmikuu <br/>
+2511280 - Hinata Mamoru <br/>
 2511324 - Daisuke Watanabe <br/>
 2511074 - Rintaro Kanaji <br/>
 2511314 - Rikuta Yoshio <br/>
@@ -31,6 +36,7 @@ studentID - username <br/>
 2211421 - Wang Zihang<br/>
 25122098 - Andres Mohali <br/>
 2311070 - Yuto Ohashi <br/>
+2511089 - Yuto Kitamura <br/>
 2311250 - Taichi Maeda
 2311020 - Riku Ikeuchi <br/>
 2311038 - Takuya Imasawa <br/>
@@ -358,6 +364,7 @@ studentID - username <br/>
 2211018 - Ryuta Ishikawa <br/>
 2111438 - Wu Yufei <br/>
 2211177 - Shinnosuke Tanaka <br/>
+2511318 - Suzuka Yoshimoto <br/>
 2111406 - Hidenori Kiyomoto<br/>
 2211201 - Eiki Nagata<br/>
 2111402
@@ -641,6 +648,7 @@ Tomoya Okuno, motonuko<br/>
 2511192 - Yuta Tsutsumi <br/>
 2511323 - Kan Watanabe (id:kan0803) </br>
 2511347 - Xinyu Zhang </br>
+2511308 - Hiromu Yamada (id:HY84) </br>
 2511026 - Naoaki Ito (id:Naoaki-I) </br>
 2511360 - Fakih Hamid </br>
 2511362 - Siyuan Liu (ryushien-z) </br>
@@ -652,3 +660,5 @@ Tomoya Okuno, motonuko<br/>
 2511205 - Daichi Nakagawa - Daichi343 </br>
 2511141 - Zhijian Zhang (id: JasonZhijian) </br>
 2511294 - Mori-Eish </br>
+2511180 - Masaru Tanibata </br>
+2511246 - Suzuka Higashitsutsumi (id:suzuka215) </br>
