@@ -1,7 +1,8 @@
-studentID - username <br/>
+studentID - username <br/> 
 2511046 - Sunao Endo - suudon4120<br/>
 2511328 - CUI ENCHENG - Eureka2718<br/>
 2511248 - Yamato Himi - yamatohimi<br/>
+2511280 - Hinata Mamoru - mamoru4949<br/>
 2511238 - Shogo Hayashi - ShogoHayashi8850<br/>
 2511090 - Manato Kinoshita<br/>
 2311065 - Otsubo Hiromu<br/>
@@ -17,7 +18,8 @@ studentID - username <br/>
 2411126 - Shota Sakoda<br/>
 2411124-Chihiro Sakai<br/>
 2511270 - Moeka Makabe<br/>
-2411314 - Miku Watanabe , mmikuu
+2411314 - Miku Watanabe , mmikuu <br/>
+2511280 - Hinata Mamoru <br/>
 2511324 - Daisuke Watanabe <br/>
 2511074 - Rintaro Kanaji <br/>
 2511314 - Rikuta Yoshio <br/>
